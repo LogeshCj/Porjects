@@ -1,2 +1,2 @@
-# Porjects
+# Projects
 BookMyShow Replica
